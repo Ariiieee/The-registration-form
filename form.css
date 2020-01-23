@@ -2,13 +2,12 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('../vvg/WhatsApp\ Image\ 2020-01-23\ at\ 6.36.50\ AM.jpeg');
+    background: url('../vvg/Makeup.jpeg');
     font-family: sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
 }
-
 .Reg-box {
     width: 280px;
     position: absolute;
